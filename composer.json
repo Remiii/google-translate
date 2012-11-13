@@ -3,5 +3,5 @@
     "description": "Google Translate API calls in ruby",
     "require": {
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
