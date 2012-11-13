@@ -1,5 +1,5 @@
 {
-    "name": "Remiii/google-translate",
+    "name": "remiii/google-translate",
     "description": "Google Translate API calls in ruby",
     "require": {
     },
