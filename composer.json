@@ -1,0 +1,7 @@
+{
+    "name": "Remiii/google-translate",
+    "description": "Google Translate API calls in ruby",
+    "require": {
+    },
+    "minimum-stability": "dev",
+}
